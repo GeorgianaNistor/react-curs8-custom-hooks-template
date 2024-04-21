@@ -1,3 +1,2 @@
-# stackblitz-starters-3nlklh
+# react-curs8-custom-hooks-template
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/GeorgianaNistor/stackblitz-starters-3nlklh)
